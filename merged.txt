@@ -1,0 +1,2 @@
+Hello message in text file through cat command.This is another hello file to chcek merging ability of cat command.This line is appended using cat command.
+this line is appended with a line break.
